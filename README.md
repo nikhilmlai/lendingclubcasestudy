@@ -19,18 +19,16 @@
 - The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- 1 : Loans with High Interest Rate are Likely to Default
+- 2 : Applicants either with 11 years of experience or less than 1 year of experience are high contributor to defaulters
+- 3 : If Purpose of the loan is Debt Consolidation, Credit Card then its likely to default
+- 4 : Bank Verification process need to revisited. Though the cases are verified by bank they are the high contributor to Default Loans
+- 5 : Giving Maximum term to lower income application will reduce risk of Default
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - For Data Manipulation
+- seaborn - For Data Visualization
+- matplotlib - For Data Visualization
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
