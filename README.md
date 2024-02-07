@@ -11,12 +11,12 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This project explores the given dataset to idenify driving factors for Loan Defaulters
+- Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+  In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'
+- With this porject we are trying to indentify key indicators which are leading or reasons for the loan default. 
+- The dataset used contains information about past loan applicants and whether they ‘defaulted’ or not.
+- The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 ## Conclusions
 - Conclusion 1 from the analysis
